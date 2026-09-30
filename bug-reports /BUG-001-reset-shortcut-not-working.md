@@ -63,10 +63,11 @@ Users attempting to reset Bolt using the documented keyboard shortcut cannot tri
 
 - `Bolt → Reset App` works 5/5.
 - `Shift + Windows + Backspace` fails 5/5.
-- The shortcut failure was reproduced while signed in and signed out.
+- The shortcut failure was reproduced while signed in and guest account.
 - The shortcut failure was reproduced both online and offline.
 - The shortcut failure was reproduced with the Bolt menu open and closed.
 - The shortcut failure was reproduced across the tested focus states.
+- The shortcut was tested across all the screens
 - `Shift`, `Windows`, and `Backspace` were individually verified to work normally at the Windows OS level.
 - No visible error or feedback is displayed when the shortcut is pressed.
 
