@@ -1,4 +1,3 @@
-# bolt-manual-qa-testing
 
 # Bolt Manual QA Evaluation
 
